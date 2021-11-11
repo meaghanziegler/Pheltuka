@@ -1,4 +1,5 @@
-﻿using Pheltuka.Animals_Monsters;
+﻿
+using Pheltuka.Animals_Monsters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -445,7 +446,7 @@ namespace Pheltuka
 
                 _console.WriteLine("You see something up ahead... \n" +
                     "You see that you have a decision to make. \n\n" + "Which way do you want to go?");
-                _console.WriteLine("\n\nStraight: Continue down the incline.");
+                _console.WriteLine("\n\nStraight: It's quiet....");
                 _console.WriteLine("Right: The sun is shining brightly over there.");
                 _console.WriteLine("Back: Do you want to go back?");
                 _console.WriteLine("Left: You saw some brush moving up ahead...");
@@ -495,9 +496,9 @@ namespace Pheltuka
 
                 _console.WriteLine("You notice some signs up ahead. Each sign has a different letter. \n" + "You notice that the handwriing looks similar to Konami's...\n" +
                     "You have a decision to make. \n\n" + "Which way do you want to go?");
-                _console.WriteLine("\n\nX: Continue down the incline.");
-                _console.WriteLine("A: The sun is shining brightly over there.");
-                _console.WriteLine("B: Do you want to go back?");
+                _console.WriteLine("\n\nX: There's a strange fog down this path.");
+                _console.WriteLine("A: I can barely see down this path....");
+                _console.WriteLine("B: It's quiet...");
                 _console.WriteLine("Y: You saw some brush moving up ahead...");
                 _console.WriteLine("Back: Do you want to go back?");
                 forest9 = _console.ReadLine().ToLower();
@@ -552,9 +553,9 @@ namespace Pheltuka
 
                 _console.WriteLine("You see more signs writen in what appears to be Konami's handwriting. \n" +
                     "You have a decision to make. \n\n" + "Which way do you want to go?");
-                _console.WriteLine("\n\nX: Continue down the incline.");
-                _console.WriteLine("A: The sun is shining brightly over there.");
-                _console.WriteLine("B: Do you want to go back?");
+                _console.WriteLine("\n\nX: You can see the sun shining through the trees.");
+                _console.WriteLine("A: It's quiet...");
+                _console.WriteLine("B: The trees are so dense down this path that they block out the sun.");
                 _console.WriteLine("Y: You saw some brush moving up ahead...");
                 _console.WriteLine("Back: Do you want to go back?");
                 forest10 = _console.ReadLine().ToLower();
@@ -638,7 +639,7 @@ namespace Pheltuka
                 _console.WriteLine("\n\nStraight: You saw some brush moving up ahead...");
                 _console.WriteLine("Right: The trees are so dense down this path that they block out the sun.");
                 _console.WriteLine("Back: Do you want to go back?");
-                _console.WriteLine("Left: You saw some brush moving up ahead...");
+                _console.WriteLine("Left: There's a strange fog down this path.");
                 toRiver1 = _console.ReadLine().ToLower();
                 _console.Clear();
 
@@ -688,7 +689,7 @@ namespace Pheltuka
                 _console.WriteLine("\n\nStraight: You can see the sun shining through the trees.");
                 _console.WriteLine("Right: There's a strange fog down this path.");
                 _console.WriteLine("Back: Do you want to go back?");
-                _console.WriteLine("Left: You saw some brush moving up ahead...");
+                _console.WriteLine("Left: I can barely see down this path....");
                 toRiver2 = _console.ReadLine().ToLower();
                 _console.Clear();
 
@@ -785,10 +786,10 @@ namespace Pheltuka
 
                 _console.WriteLine("The water sounds so close! \n" +
                     "You have a decision to make. \n\n" + "Which way do you want to go?");
-                _console.WriteLine("\n\nStraight: Continue down the incline.");
-                _console.WriteLine("Right: The sun is shining brightly over there.");
+                _console.WriteLine("\n\nStraight: The trees are so dense down this path that they block out the sun.");
+                _console.WriteLine("Right: You can see the sun shining through the trees.");
                 _console.WriteLine("Back: Do you want to go back?");
-                _console.WriteLine("Left: You saw some brush moving up ahead...");
+                _console.WriteLine("Left: It's quiet...");
                 toRiver4 = _console.ReadLine().ToLower();
                 _console.Clear();
 
