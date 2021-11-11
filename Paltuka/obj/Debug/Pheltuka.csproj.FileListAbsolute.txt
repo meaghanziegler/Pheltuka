@@ -5,3 +5,10 @@ C:\ElevenFiftyProjects\Assignments\113SD\Paltuka\Paltuka\bin\Debug\Pheltuka.exe
 C:\ElevenFiftyProjects\Assignments\113SD\Paltuka\Paltuka\bin\Debug\Pheltuka.pdb
 C:\ElevenFiftyProjects\Assignments\113SD\Paltuka\Paltuka\obj\Debug\Pheltuka.exe
 C:\ElevenFiftyProjects\Assignments\113SD\Paltuka\Paltuka\obj\Debug\Pheltuka.pdb
+C:\Users\beaut\Desktop\Pheltuka\Paltuka\obj\Debug\Pheltuka.csproj.AssemblyReference.cache
+C:\Users\beaut\Desktop\Pheltuka\Paltuka\obj\Debug\Pheltuka.csproj.CoreCompileInputs.cache
+C:\Users\beaut\Desktop\Pheltuka\Paltuka\obj\Debug\Pheltuka.exe
+C:\Users\beaut\Desktop\Pheltuka\Paltuka\obj\Debug\Pheltuka.pdb
+C:\Users\beaut\Desktop\Pheltuka\Paltuka\bin\Debug\Pheltuka.exe.config
+C:\Users\beaut\Desktop\Pheltuka\Paltuka\bin\Debug\Pheltuka.exe
+C:\Users\beaut\Desktop\Pheltuka\Paltuka\bin\Debug\Pheltuka.pdb

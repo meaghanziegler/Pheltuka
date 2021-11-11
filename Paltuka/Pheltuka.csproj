@@ -44,10 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animals_Monsters\Bear.cs" />
-    <Compile Include="Animals_Monsters\IAnimal_Monster.cs" />
-    <Compile Include="Attack.cs" />
+    <Compile Include="Animals_Monsters\Attack.cs" />
+    <Compile Include="Animals_Monsters\Character.cs" />
+    <Compile Include="UI\IConsole.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="ProgramUI.cs" />
+    <Compile Include="UI\NewConsole.cs" />
+    <Compile Include="UI\ProgramUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

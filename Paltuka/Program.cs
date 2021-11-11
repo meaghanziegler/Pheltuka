@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Pheltuka.UI;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,8 @@ namespace Pheltuka
     {
         public static void Main(string[] args)
         {
-            ProgramUI ui = new ProgramUI();
+            IConsole console = new NewConsole();
+            ProgramUI ui = new ProgramUI(console);
             ui.Run();
 
         }

@@ -6,13 +6,18 @@ using System.Threading.Tasks;
 
 namespace Pheltuka.Animals_Monsters
 {
-    public class Bear : IAnimal_Monster
+    public class Bear
     {
-        public int Health { get; set; } = 25;
+        public static int Health { get; set; } = 25;
 
-        public Attack Attack()
+        public void Attack()
         {
-            throw new NotImplementedException();
+            if (Bear.Health > 25)
+            {
+                Console.BackgroundColor = ConsoleColor.Red;
+                Console.WriteLine("You're being attacked!\n");
+                Console.Clear();
+            }
         }
 
         public void Hurt(Attack attack)
