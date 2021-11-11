@@ -1,0 +1,8 @@
+﻿Pathing for the forest easter egg:
+Up, Up, Down, Down, Left, Right, Left, Right, B, A
+
+Pathing to river:
+Right, Straight, Right, Straight, Right
+
+Pathing to Pheltuka:
+Left, Left, Straight, Left, Straight, Right, Left, Straight, Right, Right, Right, Straight
